@@ -9,7 +9,7 @@
     "prod": "SET NODE_ENV=PRODUCTION& nodemon Backend/server",
     "seeder": "node Backend/utils/seeder.js"
   },
-  "author": "Anupam Debnath",
+  "author": "kannan srinivasan",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
